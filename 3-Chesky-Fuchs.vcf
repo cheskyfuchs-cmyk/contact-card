@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fuchs;Chesky;;;
+FN:Chesky Fuchs
+ORG:FM Home Loans
+TITLE:Mortgage Advisor
+TEL;TYPE=CELL,VOICE:+1-917-763-5008
+EMAIL;TYPE=WORK,INTERNET:cfuchs@fmm.com
+URL;TYPE=WORK:https://connectwithchesky.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/chesky-fuchs-050376a/
+URL;TYPE=WhatsApp:https://wa.me/19177635008
+ADR;TYPE=WORK:;;;Brooklyn;NY;;United States
+NOTE:NMLS #59111. Licensed in NY\, NJ\, CT\, FL\, PA.
+END:VCARD
